@@ -1,0 +1,29 @@
+# Main packages
+fastapi==0.109.2
+uvicorn==0.27.1
+pydantic==2.6.1
+python-dotenv==1.0.1
+httpx==0.26.0
+openai
+aiohttp==3.11.12
+pillow
+GitPython==3.1.42
+sqlite3-api==2.0.4
+duckdb==0.10.0
+SpeechRecognition==3.10.1
+markdown==3.6
+pandas
+faker
+aiosqlite
+scikit-learn
+aiofiles
+bs4
+beautifulsoup4
+
+# Audio processing
+pydub
+ffmpeg-python
+
+# Whisper and dependencies
+sentence-transformers
+openai-whisper
